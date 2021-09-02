@@ -35,3 +35,10 @@ The **French** capital is one of the most **romantic** cities in Europe and one 
 | shawarma | Hitechcity | $10 |
 | Icecream | Creamstone | $3 |
 
+---
+# Pithy Quotes
+>*"Truth can be stated in a thousand different ways, yet each one can be true."*
+>*"Comfort is no test of truth. Truth is often far from being comfortable."*<br/>
+> -by **Swami Vivekananda**
+
+
