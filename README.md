@@ -23,3 +23,15 @@ The **French** capital is one of the most **romantic** cities in Europe and one 
 - Money
   
 [AboutMe](https://github.com/chaitanyaswaroopdev/assignment2-Udata/blob/main/AboutMe.md)
+
+---
+
+# Food/Drink that I would recommend to my friend
+| Food/Drink | Location | Price |
+| :---: | :---: | :---: |
+| Biryani | Paradise | $12 |
+| Parota | Pista house | $15 |
+| Maggie | DLF | $5 |
+| shawarma | Hitechcity | $10 |
+| Icecream | Creamstone | $3 |
+
