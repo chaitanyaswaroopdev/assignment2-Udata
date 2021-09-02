@@ -17,3 +17,7 @@ The **French** capital is one of the most **romantic** cities in Europe and one 
     5. New Delhi to Hyderabad (RGI)
     6. Hyderabad to Vishakapatnam (Domestic)
 
+- Clothes
+- Electronic Items
+- Food Items
+- Money
