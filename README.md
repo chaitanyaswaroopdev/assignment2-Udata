@@ -37,7 +37,7 @@ The **French** capital is one of the most **romantic** cities in Europe and one 
 
 ---
 # Pithy Quotes
->*"Truth can be stated in a thousand different ways, yet each one can be true."*
+>*"Truth can be stated in a thousand different ways, yet each one can be true."*<br/>
 >*"Comfort is no test of truth. Truth is often far from being comfortable."*<br/>
 > -by **Swami Vivekananda**
 
