@@ -86,3 +86,15 @@ int solve() {
 
 ```
 [Source link for code](https://cp-algorithms.com/dynamic_programming/profile-dynamics.html)
+
+---
+
+
+# Hi there 👋
+- 🧑‍🎓 I'm Currently pursuing Master's in Northwest Missouri State Universtiy.
+- 📚 I'm currently learning "DEVEL WEB APPS AND SERV" with the help from Dr. Charles Hoot.
+- ❓ For any further queries, please contact me!  
+
+---
+
+[Profile Link](https://github.com/chaitanyaswaroopdev)
