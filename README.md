@@ -2,9 +2,9 @@
 
 # Chaitanya Swaroop Udata
 
-## Paris
+## Vishakapatnam 
 
-The **French** capital is one of the most **romantic** cities in Europe and one of the world's most visited cities. There are endless reasons to visit Paris repeatedly, it is a **beautiful** and **cultural** city, very walkable, with great sights, and it has been a source of inspiration for many **writers, artists, and filmmakers**.
+The place is famous for the **picturesque landscapes** and **serene beaches** which makes it one of the liked places to visit for coastal vacations. The **Port** of Vizag is oldest **shipyard** of the country and there is plethora of **manmade structures** and **natural spectacles** which makes it a must visit place in South India.
 
 ---
 
@@ -27,6 +27,9 @@ The **French** capital is one of the most **romantic** cities in Europe and one 
 ---
 
 # Food/Drink that I would recommend to my friend
+
+The following Table describes different food items that are available in different locations with various prices.
+
 | Food/Drink | Location | Price |
 | :---: | :---: | :---: |
 | Biryani | Paradise | $12 |
